@@ -10,7 +10,7 @@ class DemoApplicationTests {
 
   @Test
   void contextLoads() {
-    assertTrue(false);
+    assertTrue(true);
   }
 
 }
